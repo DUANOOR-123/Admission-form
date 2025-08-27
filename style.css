@@ -1,0 +1,168 @@
+h6{
+    margin-left:0px;
+    text-align: right;
+    font-size:30px;
+    padding-right: 40px;
+   
+}
+.center
+{
+    
+    text-align: center;
+    margin-top: 40px;
+}
+.heading
+{
+    
+    font-size:40px;
+    margin: 20px 0;
+    vertical-align: middle;
+    text-align: center;
+}
+.box {
+    position: absolute;
+    /* keeps box fixed on the right */
+    top: 120px;
+    /* adjust vertically */
+    right: 120px;
+    /* distance from right edge */
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    overflow: hidden;
+    text-align: center;
+
+}
+.headingline
+{
+text-align: center;
+}
+.ph-container {
+    text-align: right;
+    /* align to right side */
+    padding-right: 40px;
+    /* give space from corner */
+    margin-top: 10px;
+}
+.checkbox
+{
+    font-size: 30px;
+    margin-right: 10px;
+    
+    }
+
+.checked
+{
+    transform: scale(1.5);
+}
+.choice
+{
+    text-align: center;
+}
+ .form-field {
+     margin: 8px 0;
+     line-height: 25px;
+ }
+ .field-label {
+     display: inline-block;
+     vertical-align: top;
+ }
+
+ .underline {
+     border-bottom: 1px solid black;
+     min-width: 200px;
+     height: 20px;
+     display: inline-block;
+     margin-left: 10px;
+     vertical-align: bottom;
+ }
+    .field-split 
+    {
+     display: inline-block;
+      margin-left: 30px;
+ }
+
+ .field-number {
+     width: 30px;
+     display: inline-block;
+     vertical-align: top;
+     margin-left: 73px;;
+ }
+ .admission-quota {
+     margin-left: 220px;
+ }
+ .quota-checkboxes {
+     margin-left: 250px;
+     margin-top: 5px;
+ }
+ .form{
+       font-size:20px;
+     
+ }
+ .academic-table {
+     width: 100%;
+     border-collapse: collapse;
+     margin: 15px 0;
+ }
+
+ .academic-table th,
+ .academic-table td {
+     border: 1px solid black;
+     padding: 8px;
+     text-align: center;
+ }
+ .subject-combination {
+     margin-left: 40px;
+     margin-top: 10px;
+ }
+
+ .subject-item {
+     display: inline-block;
+     margin-right: 20px;
+     font-size:20px;
+     margin-left: 20px;
+ }
+
+ .signature-parent {
+     margin-top: 30px;
+     margin-left: 40px;
+     font-size: 25px;
+ }
+  .signature-section {
+      margin-top: 30px;
+      text-align: right;
+      margin-right:40px;
+      font-size: 25px;
+  }
+
+  .dotted-line {
+      border-bottom: 2px dotted black;
+      margin: 20px 0;
+  }
+  .underline-input {
+      border: none;
+      border-bottom: 1px solid black;
+      outline: none;
+      min-width: 200px;
+      font-size: 16px;
+      padding: 2px;
+      background: transparent;
+  }
+  .underline-inputs
+  {
+    border: none;
+        border: none;
+        outline: none;
+        min-width: 200px;
+        font-size: 16px;
+        padding: 2px;
+        background: transparent;
+  }
+  .box input[type="file"] {
+      width: 90%;
+      text-align: center;
+      margin-top: 10px;
+      font-size: 12px;
+      white-space: normal;
+      /* allows text to wrap */
+  }
